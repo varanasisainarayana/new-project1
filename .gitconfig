@@ -1,3 +1,5 @@
 [user]
 	name = varanasisainarayana
 	email = varanasisairock@gmail.com
+[alias]
+	root = rev-parse --show-toplevel

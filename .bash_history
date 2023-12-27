@@ -135,3 +135,13 @@ git commit -m "files.txt file added"
 git push origin master
 clear
 git log
+cd NEW-PROJECT
+cd new-project
+git add .
+branch main
+branch sai
+git branch main
+git checkout main
+git add .
+git remote add origin https://github.com/varanasisainarayana/new-project1.git
+git push origin master

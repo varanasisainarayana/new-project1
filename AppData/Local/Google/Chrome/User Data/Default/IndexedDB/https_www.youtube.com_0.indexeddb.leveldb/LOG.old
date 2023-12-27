@@ -1,0 +1,21 @@
+2023/12/26-10:15:17.228 2b94 Reusing MANIFEST C:\Users\Lenovo\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/26-10:15:17.228 2b94 Recovering log #148
+2023/12/26-10:15:17.238 2b94 Reusing old log C:\Users\Lenovo\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000148.log 
+2023/12/26-12:21:10.033 2b94 Level-0 table #153: started
+2023/12/26-12:21:10.096 2b94 Level-0 table #153: 1516787 bytes OK
+2023/12/26-12:21:10.103 2b94 Delete type=0 #148
+2023/12/26-12:47:24.971 1ef0 Compacting 1@1 + 1@2 files
+2023/12/26-12:47:24.986 1ef0 Generated table #154@1: 524 keys, 57818 bytes
+2023/12/26-12:47:24.986 1ef0 Compacted 1@1 + 1@2 files => 57818 bytes
+2023/12/26-12:47:24.987 1ef0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/26-12:47:24.988 1ef0 Delete type=2 #150
+2023/12/26-12:47:24.988 1ef0 Delete type=2 #153
+2023/12/26-15:44:12.336 2b94 Level-0 table #156: started
+2023/12/26-15:44:12.370 2b94 Level-0 table #156: 1580430 bytes OK
+2023/12/26-15:44:12.373 2b94 Delete type=0 #152
+2023/12/26-15:54:24.778 1ef0 Compacting 1@1 + 1@2 files
+2023/12/26-15:54:24.787 1ef0 Generated table #157@1: 620 keys, 64519 bytes
+2023/12/26-15:54:24.787 1ef0 Compacted 1@1 + 1@2 files => 64519 bytes
+2023/12/26-15:54:24.788 1ef0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/26-15:54:24.789 1ef0 Delete type=2 #154
+2023/12/26-15:54:24.789 1ef0 Delete type=2 #156
